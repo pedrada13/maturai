@@ -1,0 +1,6 @@
+aiohttp>=3.9
+aiortc>=1.9
+av>=12
+opencv-python>=4.9
+ultralytics>=8.2
+onnxruntime-gpu>=1.18
